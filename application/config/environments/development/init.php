@@ -26,7 +26,7 @@
  */
 return array(
 	'base_url'    => '/',
-	'index_file'  => FALSE,
+	'"index.php"'  => FALSE,
 	'charset'     => 'utf-8',
 	'errors'      => TRUE,
 	'profile'     => FALSE,
